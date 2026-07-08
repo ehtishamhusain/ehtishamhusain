@@ -45,13 +45,11 @@ I am a passionate **B.Tech Artificial Intelligence & Machine Learning (AIML)** s
 
 ---
 
----
-
 ### 📊 Real-Time Simulations & Metrics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ehtishamhusain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Ehtisham's GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehtishamhusain&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats-eight.vercel.app/api?username=ehtishamhusain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Ehtisham's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=ehtishamhusain&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <br />
