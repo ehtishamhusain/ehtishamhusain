@@ -1,4 +1,5 @@
 # Hi there, I'm Ehtisham Husain 👋 
+### ⚡ AIML Engineer • AI Builder • Author • Visionary
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=B.Tech+AIML+Student;AI+%2F+ML+Enthusiast;Hardware+%26+IoT+Developer;Turning+Sparks+into+Reality" alt="Typing SVG" />
@@ -15,7 +16,11 @@ I am a passionate **B.Tech Artificial Intelligence & Machine Learning (AIML)** s
 - 💡 **Philosophy:** Every great engineering breakthrough starts with a single creative spark.
 - ✍️ **Beyond Code:** I have a deep love for creative writing, storytelling, and blending analytical logic with artistic expression.
 
+</br>
+
 ---
+
+</br>
 
 ### 🛠️ Tech Stack & Skills
 
@@ -43,14 +48,109 @@ I am a passionate **B.Tech Artificial Intelligence & Machine Learning (AIML)** s
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
+</br>
+
 ---
 
-### 📊 Real-Time Simulations & Metrics
+</br>
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ehtishamhusain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Ehtisham's GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehtishamhusain&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
+## 🔥 CURRENT OPERATIONS
+
+```diff
++ Building AI-powered applications
++ Designing productivity systems
++ Exploring AI Agents & Automation
++ Growing personal brand: The Spark Engineer
++ Developing startup: Career Lift
+```
+
+</br>
+
+---
+
+</br>
+
+## 🧠 PROJECT SIMULATION HUB
+
+### 🧘 Zen Study Planner
+
+-- Initializing Productivity Engine...
+
+-- Loading Focus Dashboard...
+
+-- AI Quiz Generator Activated ✅
+
+-- Zen Mode Enabled 🌿
+
+
+⚡ A complete deep-focus ecosystem with:
+
+* Smart task system
+* Pomodoro + stopwatch engine
+* AI-powered quiz generation
+* 3D flashcards with memory tracking
+* Stress relief simulations
+
+🔗 https://zen-study-planner.vercel.app/
+
+</br>
+
+### 🧠 Handwritten Answer Evaluator (AI)
+
+-- Capturing handwritten input...
+
+-- Processing via OCR...
+
+-- Evaluating with NLP engine...
+
+-- Generating score... ✅
+
+
+🚀 AI system that evaluates answers like a human examiner.
+
+</br>
+
+---
+
+</br>
+
+## 📚 KNOWLEDGE ARCHIVE
+
+
+Echoes of the Heart        → Emotional storytelling & expression
+
+Rewire Your Thinking       → Mind transformation & growth
+
+
+> Writing is where I explore emotions, thinking, and transformation beyond code.
+
+</br>
+
+---
+
+</br>
+
+## 🌐 FUTURE PROTOCOL
+
+```ini
+[Vision]
+Build_AI = True
+Solve_Real_Problems = True
+Impact_Millions = Loading...
+
+[Next Steps]
+- Advanced AI Systems
+- Scalable Products
+- Global-Level Innovation
+```
+
+</br>
+
+---
+
+</br>
+
+### 📊 Real-Time Simulations & Metrics
 
 <br />
 
@@ -58,7 +158,11 @@ I am a passionate **B.Tech Artificial Intelligence & Machine Learning (AIML)** s
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehtishamhusain&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
 
+</br>
+
 ---
+
+</br>
 
 ### 🎮 Contribution Grid Simulation
 
@@ -68,7 +172,16 @@ Behold the automated snake eating my contribution blocks! This updates dynamical
   <img src="https://raw.githubusercontent.com/ehtishamhusain/ehtishamhusain/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Walk" />
 </div>
 
+</br>
+
+<img src="https://komarev.com/ghpvc/?username=ehtishamhusain&color=00F2FE&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
+</br>
+
 ---
+
+</br>
 
 ### 🤝 Connect with Me
 
@@ -85,5 +198,14 @@ Behold the automated snake eating my contribution blocks! This updates dynamical
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ehtishamhusain&color=00F2FE&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+
+</br>
+
+---
+
+<p align="center">
+  ⚡ "This is not just a GitHub profile.  
+  It’s a system under continuous evolution." 🚀
+</p>
+
+⭐ Follow the journey. Build the future.
