@@ -1,27 +1,91 @@
-# 💫 About Me:
-🎓 AIML Engineering Student  <br>🤖 Passionate about Artificial Intelligence & Technology  <br>💻 I’m currently working on AI-based and real-world problem-solving projects  <br>🤝 I’m looking to collaborate on innovative tech and AI projects  <br>🌱 I’m currently learning Python, Machine Learning, and AI Development  <br>💬 Ask me about Python, AI concepts, and productivity  <br>✍️ I have authored 2 books: Echoes of the Heart & Rewire Your Thinking  <br>⚡ Fun fact: I love turning ideas into impactful digital solutions 🚀
+# Hi there, I'm Ehtisham Husain 👋 
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ehtisham_husain) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ehtisham-husain) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ehtishamhusain00) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Ehtisham-Husain-8) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_ehtishamhusain) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCrxH93K8kfEd3W5NvsbvDzw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ehtishamhusain00@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ehtishamhusain&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ehtishamhusain&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ehtishamhusain&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ehtishamhusain&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ehtishamhusain&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=B.Tech+AIML+Student;AI+%2F+ML+Enthusiast;Hardware+%26+IoT+Developer;Turning+Sparks+into+Reality" alt="Typing SVG" />
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=ehtishamhusain&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 About Me
+
+I am a passionate **B.Tech Artificial Intelligence & Machine Learning (AIML)** student and tech creator. I thrive at the intersection of intelligent software and physical engineering, constantly exploring how neural networks can interface with the real world to solve complex problems. 
+
+- 🚀 **Currently exploring:** Advanced Deep Learning architectures and Computer Vision.
+- 🛠️ **Building:** Smart hardware integration projects and interactive AI models.
+- 💡 **Philosophy:** Every great engineering breakthrough starts with a single creative spark.
+- ✍️ **Beyond Code:** I have a deep love for creative writing, storytelling, and blending analytical logic with artistic expression.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+<p align="left">
+  <!-- AI/ML & Data Science -->
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
+
+<p align="left">
+  <!-- Hardware & Dev Tools -->
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+---
+
+### 📊 Real-Time Simulations & Metrics
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ehtishamhusain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Ehtisham's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehtishamhusain&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehtishamhusain&theme=tokyonight" alt="GitHub Streak Stats" />
+</div>
+
+---
+
+### 🎮 Contribution Grid Simulation
+
+Behold the automated snake eating my contribution blocks! This updates dynamically based on repository activity:
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ehtishamhusain/ehtishamhusain/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Walk" />
+</div>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://github.com/ehtishamhusain" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/ehtisham-husain/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ehtishamhusain00@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ehtishamhusain&color=00F2FE&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
